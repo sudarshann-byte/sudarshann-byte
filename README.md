@@ -30,6 +30,8 @@ I love bringing designs to life through code. With a strong eye for detail and a
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 #### ⚙️ Backend & Tools  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,6 +49,9 @@ I love bringing designs to life through code. With a strong eye for detail and a
   <img src="https://nirzak-streak-stats.vercel.app/?user=sudarshann-byte&theme=radical&hide_border=false" height="160px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshann-byte&theme=radical&layout=compact&hide_border=false" height="160px"/>
+</p>
 
 ---
 
