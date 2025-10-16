@@ -33,30 +33,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### ⚙️ Backend & Tools  
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects  
 
-#### 🧩 [Classbot](https://github.com/sudarshann-byte/classbot)
-> An AI-powered classroom assistant for educators — automates student interaction, Q&A, and class engagement.
-
-#### 🌍 [Portfolio Website](https://sudarshann-byte.github.io)
-> A modern, animated portfolio built with React and Tailwind showcasing my projects, skills, and design aesthetics.
-
-#### 💬 [Chat Interface Clone](https://github.com/sudarshann-byte/chat-ui)
-> Real-time chat UI built with React.js, focusing on clean design, message animations, and responsiveness.
-
----
 
 ### 📊 GitHub Stats  
 
