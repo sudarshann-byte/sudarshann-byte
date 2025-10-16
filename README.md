@@ -26,7 +26,7 @@
 ---
 
 ## Technologies I Work With 
-![HTML5](https://img.shields.io/badge/HTML5-808080?style=for-the-badge&logo=HTML5&logoColor=white?) ![CSS](https://img.shields.io/badge/CSS-808080?style=for-the-badge&logo=CSS&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=Javascript&logoColor=yellow) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-808080?style=for-the-badge&logo=HTML5&logoColor=white?style=background-color:%23E34F26.svg) ![CSS](https://img.shields.io/badge/CSS-808080?style=for-the-badge&logo=CSS&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=Javascript&logoColor=yellow) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ---
 
