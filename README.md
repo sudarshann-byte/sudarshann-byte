@@ -2,11 +2,11 @@
     <!-- Generated with README.exe by Kunal 🚀 -->
 <div align="center">
 
-# Hi, I'm sudarshann-byte! 👋 
+# Hi, I'm Sudarshan! 👋 
 
 ## Frontend Developer residing in Mumbai,Maharashtra 
 
-💻 A full-stack developer with a passion for building modern, scalable, and user-friendly applications. ⚡ Enjoys working across both frontend and backend, experimenting with new technologies, and solving complex problems with simple, efficient solutions. 📚 Constantly learning, exploring new frameworks, and aiming to make a real-world impact through work.
+💻 A full-stack developer with a passion for building modern, scalable, and user-friendly applications. ⚡ Enjoys working across both frontend, experimenting with new technologies, and solving complex problems with simple, efficient solutions. 📚 Constantly learning, exploring new frameworks, and aiming to make a real-world impact through work.
 
 ---
 
