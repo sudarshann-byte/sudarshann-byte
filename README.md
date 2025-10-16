@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sudarshan Jha**
+# 👋 Wassup Coder!**
 
 ### 💻 Frontend Developer from Mumbai, Maharashtra  
 ✨ Passionate about crafting modern, responsive, and impactful web experiences.  
