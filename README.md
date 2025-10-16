@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Wassup Coder!
---
+
 ### 💻 Frontend Developer from Mumbai, Maharashtra  
 I love bringing designs to life through code. With a strong eye for detail and a passion for UI/UX, I aim to create web interfaces that are not only functional but also delightful to use.
 ---
