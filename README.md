@@ -1,5 +1,5 @@
 
-    <!-- Generated with README.exe by Kunal 🚀 -->
+
 <div align="center">
 
 # Hi, I'm Sudarshan! 👋 
