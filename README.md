@@ -49,9 +49,6 @@ I love bringing designs to life through code. With a strong eye for detail and a
   <img src="https://nirzak-streak-stats.vercel.app/?user=sudarshann-byte&theme=radical&hide_border=false" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshann-byte&theme=radical&layout=compact&hide_border=false" height="160px"/>
-</p>
 
 ---
 
