@@ -54,7 +54,7 @@ I love bringing designs to life through code. With a strong eye for detail and a
 
 ### ✨ Fun Facts  
 - 🧩 I love building clean UIs with smooth animations.  
-- 🧠 Currently learning **Next.js** and **TypeScript**.  
+- 🧠 Currently learning **** and **TypeScript**.  
 - ☕ Code + Music = Productivity combo.  
 - 💬 Always open to collaboration and learning new ideas.
 
