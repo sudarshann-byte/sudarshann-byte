@@ -60,6 +60,45 @@ I love bringing designs to life through code. With a strong eye for detail and a
 
 ---
 
+### 📂 Projects
+
+<div class="cards-wrapper">
+
+  <div class="card">
+    <h2>📸 DilseClicks</h2>
+    <p>
+      A fun client-side vintage photobooth app that lets users capture photos with unique frame
+      styles and filters (Classic, Polaroid, Film Strip, Retro, etc.). All photos are stored
+      locally in the browser—no backend or data upload required, keeping privacy intact.
+    </p>
+    <p>
+      🔗 Live:
+      <a href="https://dilseclicks.netlify.app/" target="_blank" rel="noopener noreferrer">
+        https://dilseclicks.netlify.app/
+      </a>
+    </p>
+  </div>
+---
+  <div class="card">
+    <h2>🧠 3D Portfolio Generator</h2>
+    <p>
+      An interactive portfolio builder that lets you input your details, skills, projects, and
+      social links to instantly generate a custom downloadable 3D portfolio website (HTML/CSS/JS).
+      Perfect for quickly creating your own personal portfolio site and deploying it anywhere.
+    </p>
+    <p>
+      🔗 Live:
+      <a href="https://portf-gen.vercel.app/" target="_blank" rel="noopener noreferrer">
+        https://portf-gen.vercel.app/
+      </a>
+    </p>
+  </div>
+
+</div>
+
+
+
+---
 <p align="center">
   <img src="https://github.com/sudarshann-byte/sudarshann-byte/blob/main/assets/wave.gif" width="100%" height="60px" />
 </p>
