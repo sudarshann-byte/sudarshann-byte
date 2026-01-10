@@ -82,6 +82,7 @@ I love bringing designs to life through code. With a strong eye for detail and a
       </a>
     </p>
   </div>
+  
 ---
   <div class="card">
     <h2>🧠 3D Portfolio Generator</h2>
