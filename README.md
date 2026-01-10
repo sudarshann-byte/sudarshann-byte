@@ -66,6 +66,7 @@ I love bringing designs to life through code. With a strong eye for detail and a
 
 ### 📂 Projects
 
+
 <div class="cards-wrapper">
 
   <div class="card">
