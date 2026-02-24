@@ -27,7 +27,7 @@
     <td width="60%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
-        <b>Hello</b> I am a detail-oriented <b>Frontend Developer</b> from <b>Mumbai</b>. 🇮🇳 <br>
+        <b>Hello</b> I am a detail-oriented <b>Frontend Developer</b> from <b>Mumbai</b>. <br>
         I love bringing designs to life through code. With a strong eye for detail, I create web interfaces that are not only functional but also delightful to use.
       </p>
       <ul>
